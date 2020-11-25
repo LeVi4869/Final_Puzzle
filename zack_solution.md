@@ -1,7 +1,7 @@
 # Zack's Solution
 
 ## Solution
-ABCD = 2178
+ABCD = 2178, E = 4
 
 ## Reasoning
 The first thing to do is you need to establish A, D, and E, since they're the most restricted.  
